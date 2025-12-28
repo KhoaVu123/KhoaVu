@@ -1,9 +1,9 @@
 import React from "react";
 import mock04 from "../assets/images/mock04.png";
 import mock07 from "../assets/images/mock07.png";
-import mock08 from "../assets/images/mock08.png";
-import mock09 from "../assets/images/mock09.png";
-import mock10 from "../assets/images/mock10.png";
+import mock08 from "../assets/images/mock08.jpg";
+import mock09 from "../assets/images/mock09.jpg";
+import mock10 from "../assets/images/mock10.jpg";
 import "../assets/styles/Project.scss";
 
 function Project() {
