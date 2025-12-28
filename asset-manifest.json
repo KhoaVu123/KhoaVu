@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KhoaVu/static/css/main.a1d2690c.css",
+    "main.js": "/KhoaVu/static/js/main.7c8b664b.js",
+    "static/js/453.b05d8aa5.chunk.js": "/KhoaVu/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock10.png": "/KhoaVu/static/media/mock10.2d05b02ba569a430a255.png",
+    "static/media/mock09.png": "/KhoaVu/static/media/mock09.e18677ccfc932e52d754.png",
+    "static/media/mock08.png": "/KhoaVu/static/media/mock08.13f46873fdbd382f4b76.png",
+    "static/media/mock04.png": "/KhoaVu/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/bg-light.png": "/KhoaVu/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock07.png": "/KhoaVu/static/media/mock07.3f1110f482232b33c6a2.png",
+    "static/media/bg-dark.png": "/KhoaVu/static/media/bg-dark.f420c6b8458af72de935.png",
+    "index.html": "/KhoaVu/index.html",
+    "main.a1d2690c.css.map": "/KhoaVu/static/css/main.a1d2690c.css.map",
+    "main.7c8b664b.js.map": "/KhoaVu/static/js/main.7c8b664b.js.map",
+    "453.b05d8aa5.chunk.js.map": "/KhoaVu/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d2690c.css",
+    "static/js/main.7c8b664b.js"
+  ]
+}
