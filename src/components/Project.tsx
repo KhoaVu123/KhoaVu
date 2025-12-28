@@ -1,6 +1,7 @@
 import React from "react";
-import mock04 from "../assets/images/mock04.png";
-import mock07 from "../assets/images/mock07.png";
+import mock04 from "../assets/images/mock04.jpg";
+import mock05 from "../assets/images/mock05.jpg";
+import mock07 from "../assets/images/mock07.jpg";
 import mock08 from "../assets/images/mock08.jpg";
 import mock09 from "../assets/images/mock09.jpg";
 import mock10 from "../assets/images/mock10.jpg";
@@ -98,6 +99,29 @@ function Project() {
             Built a Convolutional Neural Network (CNN) to classify whether
             vegetables are safe or unsafe for consumption, supporting food
             hygiene and safety monitoring through image-based analysis.
+          </p>
+        </div>
+
+         <div className="project">
+          <a
+            href="https://github.com/KhoaVu123/Smart-Peanut-Seed-Sowing-Robot"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={mock05} className="zoom" alt="thumbnail" width="100%" />
+          </a>
+          <a
+            href="https://drive.google.com/file/d/12HujeG2xbtLhZtg4Axc_QDbgykAzQPqa/view?usp=sharing"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <h2>The impact of using ChatGPT on High School Students’ learning</h2>
+          </a>
+          <p>
+            Co-developed a research-and-outreach initiative on ChatGPT use in secondary education.
+            Collected and organized survey data from 2,701 students, ran SPSS analyses to validate 
+            constructs and quantify effects, then translated findings into actionable materials 
+            (posters, user guide, seminars) to support safe and productive AI use in learning.
           </p>
         </div>
 
